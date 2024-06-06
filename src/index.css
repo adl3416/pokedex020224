@@ -73,12 +73,12 @@ code {
   margin: 0.3rem;
   border: 1px solid #efefef;
   border-radius: 0.2rem;
-  min-width: 160px;
+  min-width: 165px;
   text-align: center;
   box-shadow: 0 3px 15px rgba(0, 0, 0, 0.089);
 }
 h3 {
-  margin-bottom: 0.2rem;
+  margin-bottom: 0.3rem;
 }
 .thumb-container .number {
   border-radius: 1rem;
